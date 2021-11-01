@@ -12,6 +12,8 @@
 
 ![1](https://github.com/TYSND/my-blog/blob/main/github-desktop-images/3.png)
 
-## 五、以后，点击fetch origin，如果别人有代码更新，会有pull，再点击一下就能拉取新的代码
+## 五、以后，点击fetch origin，如果别人有代码更新，会显示pull origin，再点击一下就能拉取新的代码
 
 ![1](https://github.com/TYSND/my-blog/blob/main/github-desktop-images/4.png)
+
+![1](https://github.com/TYSND/my-blog/blob/main/github-desktop-images/5.png)
